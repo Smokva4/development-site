@@ -3,7 +3,11 @@ body {
   }
   h1 {
     color: rgb(141, 128, 173);
+    background-color: #000000;
+    text-align: center;
+    padding: 20px;
   }
+
   p {
     color: red;
   } 
@@ -27,3 +31,4 @@ body {
   ::-webkit-scrollbar-thumb:hover {
     background: rgb(187, 13, 13);
   }
+
